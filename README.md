@@ -1,6 +1,3 @@
-
-Based on your LViT (Language meets Vision Transformer) medical image segmentation project, here's a comprehensive README.md file tailored for your GitHub repository:
-
 ---
 
 # 🏥 LViT - Language meets Vision Transformer for Medical Image Segmentation
