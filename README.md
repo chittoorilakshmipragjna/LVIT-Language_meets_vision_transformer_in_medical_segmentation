@@ -195,4 +195,8 @@ This project uses several datasets:
 | MC-Net | 76.93 | 67.02 |
 | **LViT-T (1/4)** | **80.95** | **71.31** |
 
+## Project Demo Video
+
+Watch the demo: https://youtu.be/v3H9DFwKOkQ
+
 ***
